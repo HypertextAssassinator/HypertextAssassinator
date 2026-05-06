@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tapiwa Jeche and I'm a Web developer, from Zimbabwe.</h2>
+<h2 align="left">Hi 👋! My name is Tapiwa Jeche and I'm a Full Stack Web developer, from Zimbabwe.</h2>
 
 ###
 
